@@ -18,6 +18,7 @@ namespace PvZProjekt
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Texture2D background;
 
         public Game1()
         {
