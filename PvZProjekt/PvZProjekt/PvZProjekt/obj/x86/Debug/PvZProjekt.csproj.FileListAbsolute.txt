@@ -1,0 +1,6 @@
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\bin\x86\Debug\PvZProjekt.exe
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\bin\x86\Debug\PvZProjekt.pdb
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\obj\x86\Debug\PvZProjekt.exe
+C:\Users\Fredrik\Projekt\PvZProjekt\PvZProjekt\PvZProjekt\obj\x86\Debug\PvZProjekt.pdb
